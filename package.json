@@ -1,0 +1,27 @@
+{
+  "name": "gafi-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "graceful-fs": "^4.2.10"
+  },
+  "devDependencies": {
+    "honkit": "^3.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptoviet/gafi-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptoviet/gafi-docs/issues"
+  },
+  "homepage": "https://github.com/cryptoviet/gafi-docs#readme",
+  "keywords": [],
+  "description": ""
+}
