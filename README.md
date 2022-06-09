@@ -1,5 +1,8 @@
-# Introduction
+# Gafi Wiki
 
-Gafi Network - The Network of Game Finance
+Welcome to the Gafi Wiki, this place for those who want to learn & build in the Gafi Network, this wiki is divided into different groups:\
+\
+1\. If you are a player or just want to learn about Gafi Network please visit [Learn](learn/) section\
+\
+2\. If you are a game creator, developer, or node operator, please visit [Build](build/).
 
-The decentralized blockchain platform that built for blockchain games and high-frequency applications. Applications running on top of Gafi Network will never bother about the security, transaction fee, malicious accounts, and many other bad factors. They can just focus on gameplay, game experience, or application logic. The Gafi Network supports EVM (Ethereum Virtual Machine) that projects deploy from Ethereum or Binance Smart Chain to Gafi Network with little or no change.

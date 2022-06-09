@@ -1,3 +1,18 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
+* [Gafi Wiki](README.md)
+* [Learn](learn/README.md)
+  * [Introduction](learn/introduction.md)
+  * [Proof Address Mapping](learn/proof-address-mapping.md)
+  * [Gafi Network Structure](learn/gafi-network-structure.md)
+  * [Ethereum Environment](learn/ethereum-environment.md)
+  * [Gafi Pool](learn/gafi-pool.md)
+  * [Upfront Pool](learn/upfront-pool.md)
+  * [Staking Pool](learn/staking-pool.md)
+  * [Sponsored Pool](learn/sponsored-pool.md)
+  * [Gafi TX](learn/gafi-tx.md)
+  * [Game Creator](learn/game-creator.md)
+  * [Demo](learn/demo.md)
+* [Build](build/README.md)
+  * [How to Guides](build/how-to-guides/README.md)
+    * [How to run Gafi Node?](build/how-to-guides/how-to-run-gafi-node.md)
