@@ -19,5 +19,5 @@
 * [How-to Guides](how-to-guides/README.md)
   * [How to Map EVM account with Substrate account](how-to-guides/how-to-map-evm-account-with-substrate-account.md)
   * [How to use Sponsored Pool](how-to-guides/how-to-use-sponsored-pool.md)
-  * [How to use Staking Pool](how-to-guides/how-to-use-staking-pool.md)
   * [How to use Upfront Pool](how-to-guides/how-to-use-upfront-pool.md)
+  * [How to use Staking Pool](how-to-guides/how-to-use-staking-pool.md)
