@@ -17,5 +17,5 @@ When their players join the pool, make the transaction with the project's smart 
 
 As a player, when you join Sponsored Pool, in order to get the discount on the transaction fee you have to deploy the correct smart-contract addresses(on the whitelist) and make sure the "Pool Reserve" balance is not too low.
 
-
+Please try the demo to learn more about how Sponsored Pool work: [https://wiki.gafi.network/how-to-guides/how-to-use-sponsored-pool](https://wiki.gafi.network/how-to-guides/how-to-use-sponsored-pool)
 

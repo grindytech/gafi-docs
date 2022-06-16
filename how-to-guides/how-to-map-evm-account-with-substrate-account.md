@@ -13,8 +13,17 @@ The following steps will help you map your EVM account and Substrate account.
 
 After you have your own Substrate account let go to [Gafi App](https://apps.gafi.network/admin/dashboard) to get the Faucet.
 
-**3. Connect the Metamask account**\
-****First, you need to create the [Metamask](https://metamask.io/) account if you don't have one yet. Then navigate to the [Mapping Account](https://apps.gafi.network/admin/mapping-account) section. Click on Connect Metamask -> Click on Mapping
+**3. Setup Metamask**\
+First, you need to create the [Metamask](https://metamask.io/) account if you don't have one yet. Then set up the GAKI network
+
+![GAKI Network](<../.gitbook/assets/GAKI network.png>)
+
+**RPC**: http://rpc.gafi.network\
+**Chain ID**: 1337\
+**Symbol**: GAKI
+
+**4. Connect the Metamask account**\
+****Now, navigate to the [Mapping Account](https://apps.gafi.network/admin/mapping-account) section. Click on Connect Metamask -> Click on Mapping
 
 ![Mapping Account](../.gitbook/assets/map-account.png)
 
