@@ -1,6 +1,6 @@
 # How to use Sponsored Pool
 
-Upfront Pool provides staking-like services to reduce transaction fees, please go to [Staking Pool](https://wiki.gafi.network/learn/staking-pool) to learn more about it.\
+The purpose of Sponsored Pool is to help game project can create their own pool and help them appeal to their players, please go to [Sponsored Pool](https://wiki.gafi.network/learn/sponsored-pool) to learn more about it.\
 Make sure that you have finished mapping your accounts on the [How to Map EVM account with Substrate account](https://wiki.gafi.network/how-to-guides/how-to-map-evm-account-with-substrate-account) section.&#x20;
 
 Following the steps help you understand how Staking Pool work:
