@@ -19,3 +19,5 @@ The default service values are justified in the GAKI network when we are using s
 **Discount** is the value of a percentage discount on transaction fees, so whatever transaction you make, e.g claim your daily reward (0.5 GAKI of fees) or deploy on the battle (5 GAKI fees), you always get a 30% discount in the case of Basic service.
 
 Value is the amount of token that will be locked when using the service. For example in the case of Advance, you will be locked 2000 GAKI when you first join the pool and the same amount will be unlocked when you leave the pool.
+
+Please try the demo to learn more about how Staking Pool work: [https://wiki.gafi.network/how-to-guides/how-to-use-staking-pool](https://wiki.gafi.network/how-to-guides/how-to-use-staking-pool)

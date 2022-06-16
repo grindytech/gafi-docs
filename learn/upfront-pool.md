@@ -19,3 +19,5 @@ The default service values are justified in the GAKI network when we are using s
 **Discount** is the value of a percentage discount on transaction fees, so whatever transaction you make, example: claim your daily reward (0.5 GAKI of fees) or deploy on the battle (5 GAKI fees), you always get a 30% discount in the case of Basic service.
 
 The **Fee** is the amount of token you pay when using each service. For example in the case of Medium, you will be immediately charged 7 GAKI, lock 7 GAKI when you first join, and 7 GAKI every 30 minutes. The appropriate amount will be unlocked when you leave the pool.
+
+Please try the demo to learn more about how Upfront Pool work: [https://wiki.gafi.network/how-to-guides/how-to-use-upfront-pool](https://wiki.gafi.network/how-to-guides/how-to-use-upfront-pool)
