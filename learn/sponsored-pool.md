@@ -1,6 +1,7 @@
 # Sponsored Pool
 
-Gafi Pool offers the Sponsored Pool to give players more options to participate in Gafi Network and provide the method for game projects to appeal to their users.
+Gafi Pool offers the Sponsored Pool to give players more options to participate in Gafi Network.\
+Help game projects can create their own pool and help them appeal to their players.
 
 The concept of Upfront Pool and Staking Pool is different from Sponsored, those are system owned pools but Sponsored Pool is the opposite, which means the Sponsored Pool is owned by those who created it.
 
