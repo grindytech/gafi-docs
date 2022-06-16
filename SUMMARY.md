@@ -12,7 +12,6 @@
   * [Sponsored Pool](learn/sponsored-pool.md)
   * [Gafi TX](learn/gafi-tx.md)
   * [Game Creator](learn/game-creator.md)
-  * [Demo](learn/demo.md)
 * [Build](build/README.md)
   * [How to Guides](build/how-to-guides/README.md)
     * [How to run Gafi Node?](build/how-to-guides/how-to-run-gafi-node.md)
