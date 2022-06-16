@@ -3,7 +3,7 @@
 The purpose of Sponsored Pool is to help game project can create their own pool and help them appeal to their players, please go to [Sponsored Pool](https://wiki.gafi.network/learn/sponsored-pool) to learn more about it.\
 Make sure that you have finished mapping your accounts on the [How to Map EVM account with Substrate account](https://wiki.gafi.network/how-to-guides/how-to-map-evm-account-with-substrate-account) section.&#x20;
 
-Following the steps help you understand how Staking Pool work:
+Following the steps help you understand how Sponsored Pool work:
 
 1. **Deploy contract**\
    ****First, upload the contract ABI or use the demo Token
@@ -48,6 +48,6 @@ Now let's join the pool you created and transfer some erc20 token again
 
 ![Transfer token after joining the pool](../.gitbook/assets/transfer-erc20-joined.png)
 
-Now as you can see the transaction fee is cutting half from the first not joining the pool.
+Now as you can see the transaction fee is cutting half from the first time not joining the pool.
 
 Please note that the Gas will be changing due to network traffic so in some cases your transaction fee can be different.
