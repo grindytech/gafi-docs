@@ -16,7 +16,7 @@ After deploying successfully, copy the smart contract address you just deployed.
 
 ![Get Gaki token address](../.gitbook/assets/get-token-address.png)
 
-2\. Create Sponsored Pool\
+**2. Create Sponsored Pool**\
 Navigate to [Sponsored Pool](https://apps.gafi.network/admin/sponsored-pool) and click to **Add Pool** to create your own pool.
 
 ![Create your own pool](../.gitbook/assets/create-sponsored-pool.png)
@@ -26,7 +26,7 @@ Now, there are some arguments you need to determine to create the pool:\
 **Discount**: how much discount of transaction fee when players deploy your contracts\
 **Target**: smart-contract addresses that you want your players to interact with
 
-3\. Transfer ERC20 token
+**3. Transfer ERC20 token**
 
 Before joining the pool you just created, let's transfer some erc20 tokens to see the difference
 
@@ -36,7 +36,7 @@ Click the icon on the top-right and by the Token contract, let's fill the GAKI t
 
 After transferring the erc20 token succeeds, you can see the gas fee around 0.23 GAKI.
 
-4\. Join Sponsored Pool
+**4. Join Sponsored Pool**
 
 There are some ways to find your pool, but now let do double-click each pool on Sponsored Pool, so you can see the smart-contract addresses that the pool supported.
 
@@ -44,7 +44,7 @@ There are some ways to find your pool, but now let do double-click each pool on 
 
 Now let's join the pool you created and transfer some erc20 token again
 
-5\. Transfer the erc20 token after joining the pool
+**5. Transfer the erc20 token after joining the pool**
 
 ![Transfer token after joining the pool](../.gitbook/assets/transfer-erc20-joined.png)
 
