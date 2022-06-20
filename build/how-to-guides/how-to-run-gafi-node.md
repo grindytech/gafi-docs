@@ -4,12 +4,11 @@ Following are the steps to help you build the Gafi node:
 
 1. **Setup environment**\
    **- Install Rust**\
-   **\`\`\`**\
    $ _curl https://sh.rustup.rs -sSf | sh_\
    $ _source \~/.cargo/env_\
-   _\`\`\`_\
-   \
-   **- Rust toolchain**\
+   __\
+   __\
+   __**- Rust toolchain**\
    $ _rustup default stable_\
    $ _rustup update_\
    \
