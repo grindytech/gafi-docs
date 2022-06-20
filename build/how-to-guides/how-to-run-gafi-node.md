@@ -7,7 +7,6 @@ Following are the steps to help you build the Gafi node:
    $ _curl https://sh.rustup.rs -sSf | sh_\
    $ _source \~/.cargo/env_\
    __\
-   __\
    __**- Rust toolchain**\
    $ _rustup default stable_\
    $ _rustup update_\
