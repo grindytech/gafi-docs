@@ -42,7 +42,7 @@ There are some ways to find your pool, but now let do double-click each pool on 
 
 ![Find your pool by double-click](../.gitbook/assets/contract-supported.png)
 
-Now let's join the pool you created and transfer some erc20 token again
+Now let's join the pool you created and transfer some erc20 tokens again
 
 **5. Transfer the erc20 token after joining the pool**
 
@@ -51,3 +51,11 @@ Now let's join the pool you created and transfer some erc20 token again
 Now as you can see the transaction fee is cutting half from the first time not joining the pool.
 
 Please note that the Gas will be changing due to network traffic so in some cases your transaction fee can be different.
+
+**6. Change Pool Targets**\
+****\
+****Pool Targets are the smart-contract addresses that players who join your pool have to make the transaction with in order to get the transaction discounted. In the development period, those addresses are likely to change, so this can be done easily by Change Target.
+
+**7. Withdraw the pool**\
+****\
+****As a pool owner, **** When you no longer want to support your players, you can withdraw your sponsored pool and the remaining balance of the pool will return to you. Click on the pool you want to withdraw.
