@@ -54,7 +54,10 @@ Please note that the Gas will be changing due to network traffic so in some case
 
 **6. Change Pool Targets**\
 ****\
-****Pool Targets are the smart-contract addresses that players who join your pool have to make the transaction with in order to get the transaction discounted. In the development period, those addresses are likely to change, so this can be done easily by Change Target.
+****Pool Targets are the smart-contract addresses that players who join your pool have to make the transaction with in order to get the transaction discounted. In the development period, those addresses are likely to change, so this can be done easily by Change Target.\
+Click on [My Sponsored Pool](https://apps.gafi.network/admin/sponsored-pool?type=owned) to edit your pools.
+
+![Edit your pools](<../.gitbook/assets/Screen Shot 2022-06-21 at 09.02.20.png>)
 
 **7. Withdraw the pool**\
 ****\
