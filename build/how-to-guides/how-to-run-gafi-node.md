@@ -1,9 +1,14 @@
 # How to run Gafi Node?
 
-Following are the steps to help you build the Gafi node:
+Following are the steps to help you build the Gafi node on **Linux**:
 
 1. **Setup environment**\
-   **- Install Rust**\
+   **- Install dependencies**\
+   ****$ sudo apt update\
+   $ sudo apt install clang\
+   $ sudo apt-get install build-essential libssl-dev\
+   ****\
+   ******- Install Rust**\
    $ _curl https://sh.rustup.rs -sSf | sh_\
    $ _source \~/.cargo/env_\
    __\
