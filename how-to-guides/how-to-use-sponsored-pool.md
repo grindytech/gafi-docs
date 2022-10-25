@@ -46,7 +46,7 @@ Now let's join the pool you created and transfer some erc20 tokens again
 
 **5. Transfer the erc20 token after joining the pool**
 
-![Transfer token after joining the pool](../.gitbook/assets/transfer-erc20-joined.png)
+![Transfer token after joining the pool](<../.gitbook/assets/transfer-erc20-joined (1).png>)
 
 Now as you can see the transaction fee is cutting half from the first time not joining the pool.
 
