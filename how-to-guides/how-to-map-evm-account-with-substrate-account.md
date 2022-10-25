@@ -16,11 +16,13 @@ After you have your own Substrate account let go to [Gafi App](https://apps.gafi
 **3. Setup Metamask**\
 First, you need to create the [Metamask](https://metamask.io/) account if you don't have one yet. Then set up the GAKI network
 
-![GAKI Network](<../.gitbook/assets/GAKI network.png>)
+<figure><img src="../.gitbook/assets/gafi-testnet-metamask.png" alt=""><figcaption><p>Gafi Testnet Metamask Configuration</p></figcaption></figure>
 
-**RPC**: http://rpc.gafi.network\
+**RPC**: https://rpc-testnet.gafi.network\
+**RPC2**: http://rpc-testnet-sig.gafi.network\
+\
 **Chain ID**: 1337\
-**Symbol**: GAKI
+**Symbol**: GAFI
 
 **4. Connect the Metamask account**\
 ****Now, navigate to the [Mapping Account](https://apps.gafi.network/admin/mapping-account) section. Click on Connect Metamask -> Click on Mapping
