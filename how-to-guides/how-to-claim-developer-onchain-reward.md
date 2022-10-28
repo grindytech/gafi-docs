@@ -19,7 +19,6 @@ After claiming ownership of your contract successfully, every time your contract
 
 
 
-{% file src="../.gitbook/assets/Let's create a demo token.mp4" %}
-Gafi Whitelist Demo
-{% endfile %}
-
+{% embed url="https://youtu.be/AtywQ9Mc_Ko" %}
+Demo Gafi Whitelist
+{% endembed %}
