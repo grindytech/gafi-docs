@@ -11,4 +11,15 @@ Following the steps to claim ownership of your smart-contract:
 2. Claim Contract
 ```
 
-After claiming your ownership, you can change the owner of the contract by simply clicking on "Change owner". _<mark style="color:yellow;">**Warning: once you changed the owner, you are no longer the owner of contract, and "developer-onchain-reward" does not reward you but rewards the new owner**</mark>_.
+You can change the owner of the contract by simply clicking on "Change owner". _<mark style="color:yellow;">**Warning**</mark>**:** once you changed the owner, you are no longer the owner of the contract, and "developer-onchain-reward" does not reward you._
+
+After claiming ownership of your contract successfully, every time your contract has been deployed, 30 percent of the transaction fee will go to you immediately.
+
+<figure><img src="../.gitbook/assets/onchain-reward.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+{% file src="../.gitbook/assets/Let's create a demo token.mp4" %}
+Gafi Whitelist Demo
+{% endfile %}
+
