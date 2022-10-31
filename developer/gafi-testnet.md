@@ -7,11 +7,11 @@ Steps to run Testnet
 1.  Download Gafi Testnet
 
     ```
-    wget https://github.com/grindytech/gafi/archive/refs/tags/testnet-v0.2.8.tar.gz
+    wget https://github.com/grindytech/gafi/archive/refs/tags/testnet-v0.3.0.tar.gz
 
-    tar -xf testnet-v0.2.8.tar.gz
+    tar -xf testnet-v0.3.0.tar.gz
 
-    cd gafi-testnet-v0.2.8
+    cd gafi-testnet-v0.3.0
     ```
 2. Build Gafi\
    [How to build Gafi](https://wiki.gafi.network/developer/how-to-run-gafi-node)\
