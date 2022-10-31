@@ -52,14 +52,18 @@ $ sudo make install
 $ cmake --version
 ```
 
-1.  **Build Gafi Node**
+1.  **Clone Gafi**
 
     ```
     $ git clone https://github.com/grindytech/gafi.git
     $ cd gafi/
+    ```
+2.  **Build Gafi Node**
+
+    ```
     $ make build-dev
     ```
-2.  **Run Gafi**
+3.  **Run Gafi**
 
     ```
     $ make run-dev
