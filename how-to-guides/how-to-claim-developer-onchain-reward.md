@@ -17,6 +17,4 @@ After claiming ownership of your contract successfully, every time your contract
 
 <figure><img src="../.gitbook/assets/onchain-reward.gif" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/nDp7rZHEX5c" %}
-Developer Onchain Reward Demo
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?ab_channel=GafiNetwork&v=nDp7rZHEX5c" %}
