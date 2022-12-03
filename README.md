@@ -1,5 +1,7 @@
 # Gafi Wiki
 
+<figure><img src=".gitbook/assets/3D_Blue_Stacked _Slogan.png" alt=""><figcaption></figcaption></figure>
+
 Welcome to Gafi Network Wiki, this place for those who want to learn & build in the Gafi Network, Gafi Wiki is divided into four different parts:
 
 1. [Learn](https://wiki.gafi.network/learn): Dive into the Gafi, and learn the exclusive functionality of the Gafi Network.
