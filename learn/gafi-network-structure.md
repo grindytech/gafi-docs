@@ -1,6 +1,6 @@
 # Gafi Network Structure
 
-![Gafi Network Structure](<../.gitbook/assets/Gafi Network Structure.jpg>)
+![Gafi Network Structure](<../.gitbook/assets/Gafi Network Structure.png>)
 
 In the Gafi Network Structure image above, there are two main parts of the Network:\
 \

@@ -9,5 +9,5 @@
   This limitation can be overcome by several mechanisms e.g [Unified Accounts](https://docs.moonbeam.network/learn/features/unified-accounts/) of [Moonbeam Network](https://moonbeam.network/), which offers a fully EVM compatible platform. The different approaches Moonbeam Network and Gafi Network trying to achieve is Moonbeam's focus on creating a fully Ethereum compatible environment on Polkadot. Gafi going to support the Ethereum environment, and other blockchains in the future. So PAM is the way that fitted to Gafi to the trade-off user's experience for scalability.\
 
 * **How to use Proof Address Mapping?**\
-  This is an early stage of development, please follow this [document](https://wiki.gafi.network/how-to-guides/how-to-map-evm-account-with-substrate-account).
+  [Map EVM account with Substrate account](https://wiki.gafi.network/how-to-guides/how-to-map-evm-account-with-substrate-account)
 

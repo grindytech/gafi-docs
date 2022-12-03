@@ -6,11 +6,11 @@
 
 * **Upfront Pool Services**
 
-![Upfront Pool Services](../.gitbook/assets/upfront-services.jpg)
+<figure><img src="../.gitbook/assets/Upfront Pool.png" alt=""><figcaption></figcaption></figure>
 
 Currently, the default service fee of Basic is 5 GAKI, 7 GAKI for Medium, and 10 GAKI for Advanced for 30%, 50%, and 70% of discount respectively with a limit of 100 transactions in 30 minutes.  By joining the pool, you will be charged a service fee, reserve the same amount of fee at the beginning, and charged every 30 minutes. The appropriate reserve(lock) service fee will be unreserve(unlock) when you leave the pool.\
 \
-The default service values are justified in the GAKI network when we are using scripts to calculate these numbers, these details can be and should be changed over time by the community to fit with the whole ecosystem.
+**The default service values are justified in the GAKI network when we are using scripts to calculate these numbers, these details can be and should be changed over time by the community to fit with the whole ecosystem.**
 
 * **Service Detail**
 
