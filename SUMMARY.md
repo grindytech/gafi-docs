@@ -21,3 +21,6 @@
   * [How to use Staking Pool](how-to-guides/how-to-use-staking-pool.md)
   * [How to use Sponsored Pool](how-to-guides/how-to-use-sponsored-pool.md)
   * [How to claim developer-onchain-reward](how-to-guides/how-to-claim-developer-onchain-reward.md)
+* [Operator](operator/README.md)
+  * [Run Gafi Node?](operator/run-gafi-node.md)
+  * [Join Gafi Testnet](operator/join-gafi-testnet.md)

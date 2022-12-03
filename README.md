@@ -1,8 +1,10 @@
 # Gafi Wiki
 
-Welcome to the Gafi Wiki, this place for those who want to learn & build in the Gafi Network, this wiki is divided into different groups:\
-\
-1\. If you are a player or just want to learn about Gafi Network please visit [Learn](learn/) section\
-\
-2\. If you are a game creator, developer, or node operator, please visit [Build](build/).
+Welcome to Gafi Network Wiki, this place for those who want to learn & build in the Gafi Network, Gafi Wiki three divided into different parts:
 
+
+
+1. [Learn](https://wiki.gafi.network/learn): Dive into the Gafi, and learn the exclusive functionality of Gafi.
+2. [Developer](https://wiki.gafi.network/developer): Learn to build the Blockchain-based Gaming application, and deploy existing projects on Gafi Network.
+3. [How-to Guides](https://wiki.gafi.network/how-to-guides): Experiencing the Gafi's functionality through demos, and use cases.
+4. [Operator](https://wiki.gafi.network/operator): Know how to run a node on Local, Gafi Testnet, and Gafi Mainnet.
