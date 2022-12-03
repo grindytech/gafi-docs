@@ -6,11 +6,11 @@
 
 * **Staking Pool Services**
 
-![Staking Pool Services](../.gitbook/assets/staking-services.jpg)
+<figure><img src="../.gitbook/assets/Staking Pool.png" alt=""><figcaption></figcaption></figure>
 
 Currently, the default staking value of Basic is 1000 GAKI, 1500 GAKI for Medium, and 2000 GAKI for Advanced for 30%, 50%, and 70% of discount respectively with a limit of 100 transactions in 30 minutes.  By joining the pool, you will lock the staking value to get the discount.\
 \
-The default service values are justified in the GAKI network when we are using scripts to calculate these numbers, these details can be and should be changed over time by the community to fit with the whole ecosystem.
+**The default service values are justified in the GAKI network when we are using scripts to calculate these numbers, these details can be and should be changed over time by the community to fit with the whole ecosystem.**
 
 * **Service Detail**
 
