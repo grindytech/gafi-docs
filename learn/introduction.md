@@ -6,6 +6,6 @@
 
 Gafi Network is the layer one blockchain that is built from [Substrate](https://substrate.io/), and we intend to be Kusama/Polkadot parachain to inherit the security of [the Relay Chain](https://wiki.polkadot.network/docs/learn-architecture). Gafi with specialized customization for Game Finance that solves the barriers current game finance faces such as the cost of operating, security, scalability, and the lack of user incentive.
 
-Gafi Network provided the features and friendly interfaces that end-users, and builders easy to use and build with Gafi, we hope you enjoy playing the game and building with Gafi Network.
+Gafi Network provided features and friendly interfaces that end-users, and builders easy to use and build with Gafi, we hope you enjoy playing the game and building with Gafi Network.
 
 ****
