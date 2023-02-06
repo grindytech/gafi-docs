@@ -14,6 +14,7 @@
   * [Gafi Membership](learn/gafi-membership.md)
   * [Developer Onchain Reward](learn/game-creator.md)
 * [Developer](build/README.md)
+  * [Setup Gafi Whitelist](build/setup-gafi-whitelist.md)
   * [How to run Gafi Node?](build/how-to-run-gafi-node.md)
   * [Gafi Testnet](developer/gafi-testnet.md)
 * [Operator](operator/README.md)

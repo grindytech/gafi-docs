@@ -30,5 +30,7 @@ When disabling the whitelist, the existing players in the pool are still there a
 
 1. Setup on Gafi Foundation public server
 2. Setup on your server\
-   Gafi Whitelist is an open-source project, you can clone, customize and run on your server to maximize stability. Please go to the Setup Gafi Whitelist document to set up your own whitelist.
+   Gafi Whitelist is an open-source project, you can clone, customize and run on your server to maximize stability.
+
+Please go to the Setup Gafi Whitelist document to set up the whitelist step by step.
 
