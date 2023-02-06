@@ -1,6 +1,17 @@
 # Gafi Wiki
 
+<figure><img src=".gitbook/assets/3D_Blue_Stacked _Slogan.png" alt=""><figcaption></figcaption></figure>
+
+
+
+### The Network of Game Finance
+
+The foundation builds on top-class technologies, architectures, and mechanisms for the next wave of Blockchain-based Gaming.
+
+
+
 Welcome to Gafi Network Wiki, this place for those who want to learn & build in the Gafi Network, Gafi Wiki is divided into four different parts:
+
 
 1. [Learn](https://wiki.gafi.network/learn): Dive into the Gafi, and learn the exclusive functionality of the Gafi Network.
 2. [Developer](https://wiki.gafi.network/developer): Learn to build the Blockchain-based Gaming application, and deploy existing projects on Gafi Network.
