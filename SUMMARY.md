@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Gafi Wiki](README.md)
+* [GAFI WIKI DEV](README.md)
 * [Learn](learn/README.md)
   * [Introduction](learn/introduction.md)
   * [Gafi Network Structure](learn/gafi-network-structure.md)
