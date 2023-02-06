@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GAFI WIKI DEV](README.md)
+* [Gafi Network](README.md)
 * [Learn](learn/README.md)
   * [Introduction](learn/introduction.md)
   * [Gafi Network Structure](learn/gafi-network-structure.md)
@@ -11,7 +11,8 @@
   * [Staking Pool](learn/staking-pool.md)
   * [Sponsored Pool](learn/sponsored-pool.md)
   * [Gafi TX](learn/gafi-tx.md)
-  * [Game Creator](learn/game-creator.md)
+  * [Gafi Whitelist](learn/gafi-whitelist.md)
+  * [Developer Onchain Reward](learn/game-creator.md)
 * [Developer](build/README.md)
   * [How to run Gafi Node?](build/how-to-run-gafi-node.md)
   * [Gafi Testnet](developer/gafi-testnet.md)
