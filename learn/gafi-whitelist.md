@@ -35,4 +35,3 @@ When disabling the whitelist, the existing players in the pool are still there a
 ### Setup Whitelist
 
 Please go to the [Setup Gafi Whitelist](https://wiki-dev.gafi.network/build/setup-gafi-whitelist) document to set up the whitelist step by step.
-
