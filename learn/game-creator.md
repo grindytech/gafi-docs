@@ -1,6 +1,12 @@
+---
+description: >-
+  The exclusive mechanism to encourage developers to contribute and grow the
+  Gafi ecosystem.
+---
+
 # Developer Onchain Reward
 
-#### Abstract
+#### Introduction
 
 Transaction fees are an essential part of every blockchain, the main role of transaction fees is to protect the network from spam attacks. In other blockchains, transaction fees are paid to the miners in the Proof of Work networks like Bitcoin or Ethereum. In other Proof of Stake networks, those fees are burned apart and another part will go to the reserve.
 
