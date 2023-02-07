@@ -15,8 +15,6 @@ In Gafi, 30 percent of transaction fees will reward to developers(smart-contract
 
 After claiming ownership of your contract successfully, every time your contract has been deployed, 30 percent of the transaction fee will go to you immediately.
 
-<figure><img src="../.gitbook/assets/onchain-reward.gif" alt=""><figcaption></figcaption></figure>
-
 {% embed url="https://www.youtube.com/watch?ab_channel=GafiNetwork&v=nDp7rZHEX5c" %}
 
 ### Change the smart contract ownership
