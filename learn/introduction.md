@@ -1,11 +1,22 @@
 # Introduction
 
-**Gafi Network - The Network of Game Finance**
+**Gafi Network - Unlock the future of Web3 Gaming**
 
-**Abstract:** The decentralized blockchain platform that is built for blockchain gaming and high-frequency applications. Applications running on top of Gafi Network will never bother about the security, transaction fees, malicious accounts, and many other bad factors. They can just focus on gameplay, game experience, or application logic. The Gafi Network supports EVM (Ethereum Virtual Machine) that projects deploy from Ethereum or BNB Chain to Gafi Network with little or no change.
+_The blockchain builds on top of technologies and architectures_
 
-Gafi Network is the layer one blockchain that is built from [Substrate](https://substrate.io/), and we intend to be Kusama/Polkadot parachain to inherit the security of [the Relay Chain](https://wiki.polkadot.network/docs/learn-architecture). Gafi with specialized customization for Game Finance that solves the barriers current game finance faces such as the cost of operating, security, scalability, and the lack of user incentive.
+_Gafi unleashes innovation by pushing the boundaries of technology_
 
-Gafi Network provided features and friendly interfaces that end-users, and builders easy to use and build with Gafi, we hope you enjoy playing the game and building with Gafi Network.
+_To drive Web2 to Web3 Gaming and explore the fastest-growing Non-Fungile Tokens._\
+
+
+<figure><img src="https://lh5.googleusercontent.com/cNlZdR0nF73ckRds3_3YN7nZQd8os9q7VqCkmD_BEJLYREVhHDebEnHMrUHQL8iqmmOrYPsmiXtsrgqAiiqEuCjoMnOEorFAwFw1Fk6bxjj6qBRkH1aiZq29Nuev9YtXHxV21Eqyfq27e9ZCXeFYzJg" alt=""><figcaption><p>Gafi Triangle</p></figcaption></figure>
+
+**Play**: Gafi provides an unparalleled method to explosive the Web3 Gaming adoption. Even from zero experience with blockchain to the most used environment Ethereum Virtual Machine(EVM) and to the promising environment WASM.
+
+**Rewarded**: With exclusive mechanisms, all the players, developers, and game studios on Gafi can earn a significant reward when playing, building, and operating on Gafi Network.
+
+**Trade**: The first Cross-Non-Fungile Tokens(C-NFT) that help users can utilize the C-NFT in multiple environments and marketplaces.
+
+Gafi Network is the layer one blockchain that is built from [Substrate](https://substrate.io/), and we intend to be Kusama/Polkadot parachain to inherit the security of [the Relay Chain](https://wiki.polkadot.network/docs/learn-architecture).
 
 ****
