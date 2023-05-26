@@ -11,7 +11,7 @@ sudo apt update
 
 sudo apt install clang
 
-sudo apt-get install build-essential libssl-dev
+sudo apt-get install -y clang libssl-dev llvm libudev-dev protobuf-compiler
 ```
 
 **- Install Rust**
@@ -75,4 +75,3 @@ cmake --version
     make run-dev
     ```
 
-__
