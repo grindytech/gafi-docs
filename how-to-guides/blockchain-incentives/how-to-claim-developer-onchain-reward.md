@@ -4,7 +4,7 @@
 
 In Gafi, 30 percent of transaction fees will reward to developers(smart-contract owner), in order to claim your reward, you must first claim the ownership of your smart-contract.
 
-<figure><img src="../.gitbook/assets/claim-game-creator.png" alt=""><figcaption><p>Claim Contract</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/claim-game-creator.png" alt=""><figcaption><p>Claim Contract</p></figcaption></figure>
 
 #### Claim ownership of your smart contract:
 
