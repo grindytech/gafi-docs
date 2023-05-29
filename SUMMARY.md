@@ -6,6 +6,7 @@
   * [Web3 Gaming Integration](learn/web3-gaming-integration/README.md)
     * [Introduction](learn/web3-gaming-integration/introduction.md)
     * [Gafi Network Structure](learn/web3-gaming-integration/gafi-network-structure.md)
+    * [Zero Cost Integration](learn/web3-gaming-integration/zero-cost-integration.md)
   * [Blockchain Incentives](learn/blockchain-incentives/README.md)
     * [Gafi Network Structure](learn/blockchain-incentives/gafi-network-structure.md)
     * [Proof Address Mapping](learn/blockchain-incentives/proof-address-mapping.md)
