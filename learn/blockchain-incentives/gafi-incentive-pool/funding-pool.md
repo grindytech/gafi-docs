@@ -5,7 +5,7 @@ Help game projects can create their own pool and help them appeal to their playe
 
 The concept of Upfront Pool and Staking Pool is different from Funding, those are system-owned pools but Funding Pool is the opposite, which means the Funding Pool is owned by those who created it.
 
-<figure><img src="../.gitbook/assets/Funding Pool.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Funding%20Pool.png" alt=""><figcaption></figcaption></figure>
 
 In case a game project wants to help its players with the transaction fee on Gafi Network, the game project needs to create Funding Pool, and determine the pool values:\
 \
@@ -18,4 +18,3 @@ When their players join the pool, make the transaction with the project's smart 
 As a player, when you join Funding Pool, in order to get the discount on the transaction fee you have to deploy the correct smart-contract addresses(on the whitelist) and make sure the "Pool Reserve" balance is not too low.
 
 Please try the demo to learn more about how Funding Pool work: [https://wiki.gafi.network/how-to-guides/how-to-use-funding-pool](https://wiki.gafi.network/how-to-guides/how-to-use-funding-pool)
-
