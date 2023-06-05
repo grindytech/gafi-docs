@@ -18,4 +18,6 @@ description: >-
    \
    To solve this problem, Gafi has the features:\
    \- Incentives Pool: the mechanism that helps developers can connect with their users.\
-   \- Developer-Onchain-Reward: thirty percent of the transaction fee is rewarded to the developer.
+   \- Developer-Onchain-Reward: thirty percent of the transaction fee is rewarded to the developer.\
+   \
+   Please visit [Blockchain Incentives](https://wiki.gafi.network/learn/blockchain-incentives) to learn more.

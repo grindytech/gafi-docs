@@ -11,7 +11,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.18.52.png" alt=""><figcaption><p>Blockchain Integration on Traditional</p></figcaption></figure>
 
-Web3 gaming integration consider is the most costly process. From the traditional game to emerge to web3 gaming, Studio is likely walking through six milestones:
+Web3 gaming integration consider is the most costly process. From the traditional game to emerge to web3 gaming. The studio is likely walking through six milestones below:
 
 1. Design NFTs\
    In this milestone, the studio will design which in-game assets they want to publish as NFTs. The variety by the amount, attribute, and reusability of the assets.
@@ -38,4 +38,4 @@ Traditional Race not only took such a long development time and the resources to
    With the full flexibility and dynamic of the Gafi Market, Studio can freely customize the trading fee or change NFTs attribute only with one "one-click".\
    Last but not least is the exclusive transparency random minting, players enjoying the free-trust mining function, and also helps Studio easier on making sales.
 
-Which took ZERO cost, and in just a few minutes, Gafi let Studio can advancing the best-in-class blockchain technologies into their games.
+Which took ZERO cost, and in just minutes, Gafi let Studio can advancing the best-in-class blockchain technologies into their games.
