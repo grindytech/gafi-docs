@@ -9,6 +9,7 @@
     * [Zero Cost Integration](learn/web3-gaming-integration/zero-cost-integration.md)
     * [The Home of Developers](learn/web3-gaming-integration/the-home-of-developers.md)
     * [Transparent Random Mining](learn/web3-gaming-integration/transparent-random-mining.md)
+    * [Upgradable NFTs](learn/web3-gaming-integration/upgradable-nfts.md)
     * [Auto-sign Wallet](learn/web3-gaming-integration/auto-sign-wallet.md)
     * [Community Audit](learn/web3-gaming-integration/community-audit.md)
     * [Forkless Upgrade](learn/web3-gaming-integration/forkless-upgrade.md)

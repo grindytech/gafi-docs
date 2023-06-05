@@ -1,0 +1,6 @@
+---
+description: Upcoming...
+---
+
+# Upgradable NFTs
+
