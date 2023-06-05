@@ -2,8 +2,7 @@
 
 **The Critical Problems of Mining NFTs on Traditional Blockchain Games**
 
-In the traditional way of blockchain gaming such as the Ethereum smart contract, the random mechanism is the missing part despite the fact random is an important ingredient of gaming.\
-Usually, blockchain gaming would generate NFTs in the game server and then issues them on the blockchain through admin wallets.  In this way, some critical problems occur.
+In the traditional way of blockchain gaming such as the Ethereum In the traditional way of blockchain games like Ethereum smart contracts, the random mechanism is the missing part despite the fact that randomness is an important component of the game. Typically, a blockchain game will generate NFTs in the game server and then issue them on the blockchain via the admin wallet. In this way, some critical problems occur.
 
 1. Unreliable: the NFT is generated in the game so players don't know if the NFT is really created in the way it should be, and the possibility is as rare as it appears to be.
 2. The game is not balanced: this has happened a number of times in the blockchain space where admin wallets have created premium NFTs for themselves for a quick profit or a quick rise to the top.
