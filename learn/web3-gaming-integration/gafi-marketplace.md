@@ -6,7 +6,7 @@ description: An outstanding marketplace to trade NFTs.
 
 What to do when you want to publish in-game assets to players. What do you do when you want to transfer, buy, sell, auction.... your NFT? Gafi Marketplace is a decentralized, transparent, trust-free place where Studios and Players can:
 
-1. NFT Publishing: converts in-game content to NFT and allows players to have a Transparent Random Mining.
+1. NFT Publishing: converts in-game content to NFT and allows players to have a [Transparent Random Mining](https://wiki.gafi.network/learn/web3-gaming-integration/transparent-random-mining).
 2. Set price: set a price for NFTs.
 3. Set bundle: set a all-in price for a bundle of NFTs.
 4. Set buy: place a buy NFTs.
