@@ -1,11 +1,12 @@
 # Introduction
 
-The gaming industry is extremely big with more than 3 billion users worldwide.\
-With the rise of hardware technologies, Gaming today can literally create a whole virtual world inside of it. Its technologies exceed our imagination and even various industry benefit from it such as filming, constructing, and health. But on the in-game financial, there is not much change from the first place.\
+The gaming industry is extremely big with more than 3 billion users worldwide. With the development of hardware technology, today's Gaming can literally create a virtual world inside it. Its technology is beyond our imagination and even many different industries benefit from it such as cinematography, construction and medical. But in terms of in-game finances, not much has changed from the original.
+
+Along with that, with the rise of blockchain technology, the decentralized web also known as Web3 is day by day proven to be the next generation of the internet where the decentralized is the key to this design. Web3 has proven to be a great solution for many industries like Metaverse, Digital Arts, Society and especially Finance.\
 \
-On the other rise, the decentralized web also known as [Web3](http://gavwood.com/dappsweb3.html) is day by day proven to be the next generation of the internet where the decentralized is the key to this design. Web3 has proven to be a brilliant solution for many industries such as Metaverse, Digital Arts, Social, and especially Finance.\
-\
-Web3 Gaming is the concept of integrating Web3 technologies into the traditional game to innovate in-game finance and boost this multi-hundred billion dollars industry.\
-\
-Explore more values of Web3 for gaming on Gafi paper: [https://gafi.network/GafiPaperV2.pdf](https://gafi.network/GafiPaper.pdf)
+Just a few years after the first blockchain game was built, the games have led the blockchain adoption in many categories like most active users, biggest ecosystem, biggest fund, and so on. Despite the fact that blockchain gaming is considered the most promising industry in the blockchain space, blockchain games today are facing a multitude of problems from blockchain integration to the blockchain itself.
+
+This section will show you how Gafi solves the first important problem: Web3 Gaming Integration.
+
+To discover more of Web3's value for games, please consider looking at Gafi Paper: [https://gafi.network/GafiPaperV2.pdf](https://gafi.network/GafiPaper.pdf)
 
