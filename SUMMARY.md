@@ -8,6 +8,14 @@
     * [Gafi Network Structure](learn/web3-gaming-integration/gafi-network-structure.md)
     * [Zero Cost Integration](learn/web3-gaming-integration/zero-cost-integration.md)
     * [The Home of Developers](learn/web3-gaming-integration/the-home-of-developers.md)
+<<<<<<< HEAD
+    * [Transparent Random Mining](learn/web3-gaming-integration/transparent-random-mining.md)
+    * [Upgradable NFTs](learn/web3-gaming-integration/upgradable-nfts.md)
+    * [Auto-sign Wallet](learn/web3-gaming-integration/auto-sign-wallet.md)
+    * [Community Audit](learn/web3-gaming-integration/community-audit.md)
+    * [Forkless Upgrade](learn/web3-gaming-integration/forkless-upgrade.md)
+=======
+>>>>>>> 9241496acbcf3641ea51e908132e32950102530e
   * [Blockchain Incentives](learn/blockchain-incentives/README.md)
     * [Gafi Network Structure](learn/blockchain-incentives/gafi-network-structure.md)
     * [Proof Address Mapping](learn/blockchain-incentives/proof-address-mapping.md)
@@ -27,7 +35,19 @@
   * [Join Gafi Testnet](operator/join-gafi-testnet.md)
 * [How-to Guides](how-to-guides/README.md)
   * [Web3 Gaming](how-to-guides/web3-gaming/README.md)
+<<<<<<< HEAD
+    * [Set up a web3 game](how-to-guides/web3-gaming/set-up-a-web3-game.md)
+    * [Create & add collection](how-to-guides/web3-gaming/create-and-add-collection.md)
+    * [Create & add item](how-to-guides/web3-gaming/create-and-add-item.md)
+    * [Set Upgrade](how-to-guides/web3-gaming/set-upgrade.md)
+    * [Mint NFTs](how-to-guides/web3-gaming/mint-nfts.md)
+    * [Upgrade NFTs](how-to-guides/web3-gaming/upgrade-nfts.md)
+    * [Trade NFTs](how-to-guides/web3-gaming/trade-nfts.md)
+    * [Wishlist](how-to-guides/web3-gaming/wishlist.md)
+    * [Swap & Auction](how-to-guides/web3-gaming/swap-and-auction.md)
+=======
     * [How to set up a web3 game](how-to-guides/web3-gaming/how-to-set-up-a-web3-game.md)
+>>>>>>> 9241496acbcf3641ea51e908132e32950102530e
   * [Blockchain Incentives](how-to-guides/blockchain-incentives/README.md)
     * [How to use Funding Pool](how-to-guides/blockchain-incentives/how-to-use-funding-pool.md)
     * [How to use Staking Pool](how-to-guides/blockchain-incentives/how-to-use-staking-pool.md)
