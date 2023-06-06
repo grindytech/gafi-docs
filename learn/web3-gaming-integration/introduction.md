@@ -7,8 +7,5 @@ On the other rise, the decentralized web also known as [Web3](http://gavwood.com
 \
 Web3 Gaming is the concept of integrating Web3 technologies into the traditional game to innovate in-game finance and boost this multi-hundred billion dollars industry.\
 \
-Explore more values of Web3 for gaming on Gafi paper: [https://gafi.network/GafiPaperV2.pdf](https://gafi.network/GafiPaper.pdf)\
-
-
-
+Explore more values of Web3 for gaming on Gafi paper: [https://gafi.network/GafiPaperV2.pdf](https://gafi.network/GafiPaper.pdf)
 
