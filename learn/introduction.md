@@ -6,9 +6,13 @@
 
 Welcome to Gafi, where we're revolutionizing the gaming industry by harnessing the power of web3 innovation and taking in-game finances to extraordinary heights. Join us on an exhilarating journey to create a decentralized web and ride the crest of the fastest-growing wave: Non-Fungible Tokens (NFTs). Are you ready to embark on this groundbreaking adventure?
 
-Gafi Network is constructed from two parts:
+Gafi Wiki is made up of two parts:
 
-1. Web3 Gaming Integration\
-   If you are the game studio, this part is absolutely a great place for you. Here you will learn how Gafi solved the problems of Web3 Gaming integration with a series of exclusive functions such as Zero cost integration, non-blockchain devs environment, community audit, and Auto Signing Wallet. From that, you will have ideas on how to maximize the values of Web3 technologies for your "crazy" games.
-2. Blockchain Incentives\
-   Here are blockchain incentives that aim mostly at developers and gamers, where you can learn how to build and play on Gafi. You should want to learn how to leverage the powerful features of runtime-onchain that help you through the "everyone" problems of blockchain such as transaction fees, and scalability. From that, you can earn outstanding rewards from the "Free to Play" and "Developer-Onchain-Reward" functionalities.
+1. **Web3 Gaming Integration**
+
+* If you are game studio, this section is absolutely a great place for you. Here you will learn how Gafi solves Web3 Gaming integration problems with many exclusive features. From there, you will have ideas on how to maximize the value of Web3 technology for your "beautiful" games.
+* If you are a gamer, go through this section, you can get an idea of ​​what Web3 gaming should be like. Gafi will show you a new level of control over your in-game assets, trust-free NFT mining mechanism and a new marketplace (https://market.gafi.network) with lots of marvelous trading features.
+
+2. **Blockchain Incentives**
+
+* This section is intended primarily for developers and gamers, where you can learn how to leverage runtime-onchain functionality to build and play on Gafi, giving you the edge to overcome many of problems in blockchain gaming. Finally, you can earn great rewards from "Free Play" and "On-chain Developer Rewards" features.
