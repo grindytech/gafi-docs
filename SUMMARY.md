@@ -5,7 +5,7 @@
   * [Introduction](learn/introduction.md)
   * [Web3 Gaming Integration](learn/web3-gaming-integration/README.md)
     * [Introduction](learn/web3-gaming-integration/introduction.md)
-    * [Gafi Network Structure](learn/web3-gaming-integration/gafi-network-structure.md)
+    * [Web3 Gaming Structure](learn/web3-gaming-integration/gafi-network-structure.md)
     * [Gafi Marketplace](learn/web3-gaming-integration/gafi-marketplace.md)
     * [Zero Cost Integration](learn/web3-gaming-integration/zero-cost-integration.md)
     * [The Home of Developers](learn/web3-gaming-integration/the-home-of-developers.md)
