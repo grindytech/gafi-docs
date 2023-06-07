@@ -6,36 +6,34 @@ description: >-
 
 # Zero Cost Integration
 
-**I. Traditional Race of Web3 Gaming Integration**\
+Blockchain integration is considered one of the most expensive processes when it comes to adoption, the costs here can be human resources, additional budget services, and trade-offs for game experience and security. In order for Game Web3 to be widely adopted, Gafi has eliminated all the problems in the traditional way, let's compare to learn more.
 
+**I. Traditional Race of Web3 Gaming Integration**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.18.52.png" alt=""><figcaption><p>Blockchain Integration on Traditional</p></figcaption></figure>
 
-Web3 gaming integration consider is the most costly process. From the traditional game to emerge to web3 gaming. The studio is likely walking through six milestones below:
+From the traditional game to emerge to web3 gaming. The studio is likely walking through six milestones below:
 
 1. Design NFTs\
-   In this milestone, the studio will design which in-game assets they want to publish as NFTs. The variety by the amount, attribute, and reusability of the assets.
+   During this milestone, the studio will design which in-game assets they want to publish as NFT. The rarity depends on the quantity, properties, and reusability of the asset.
 2. Develop Smart Contract\
-   To develop is the process of learning, coding, auditing, and deploying which took a massive amount of work. This milestone rarely be outsourced as a traditional game with only game developers because of the surprising risk of exploiting.
+   Developing is the process of learning, coding, testing, auditing, and deploying, which requires a large amount of work. This milestone is rarely outsourced as a traditional game because of the risk of unexpected exploits.
 3. Mint NFTs\
-   In this milestone, blockchain gaming will mint NFTs and integrate them into their games. If any bugs or just changes happen, they have to go all over again to replace them with new ones.
+   In this milestone, blockchain gaming will mint NFTs and integrate them into their games. If any errors or just changes happen, they have to start over to replace them with new ones.
 4. Build Marketplace\
-   Sure, the alternative way to sell NFTs is to make a sale on a decentralized marketplace such as OpenSea, or Blur. But this is not likely to happen in which marketplace considering the main revenue in the long run that building their own marketplace provide flexibility on trading fee and UX/UI customization.
+   Sure, another way to sell NFTs is to sell on a decentralized marketplace like OpenSea or Blur. But this is not likely to happen when the market considers primary revenue in the long run, so building their own marketplace offers flexibility in terms of transaction fees and UX/UI customization.
 5. Publish NFTs\
-   Finally, after a long road of building and testing over months or years. Their in-game assets will be published as NFTs.
-
-Traditional Race not only took such a long development time and the resources to develop NFTs but also numerous other costly services such as auditing, running RPC nodes, cloud servers... etc.
+   Finally, after a long road of building and testing for months or years. Their in-game assets will be published as NFTs.
 
 **II. Gafi Race**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.45.38.png" alt=""><figcaption><p>Web3 Gaming Integration with Gafi</p></figcaption></figure>
 
 1. Design NFTs\
-   Gafi provides a new version of ERC1155 with various unique methods for Gaming which help studios easier to design NFTs for their game.
+   Gafi offers a new version of ERC1155 with various unique methods for Games, making it extremely easy for studios to design NFTs for their games.
 2. Mint NFTs\
-   With the Pre-mint mechanism, Gafi offers outstanding security in minting and helps Sudio control the NFTs supply.
+   With transparent random mining and pre-mining mechanisms, Gafi provides unsurpassed security in minting and helps Sudio control the supply of NFTs.
 3. Publish NFTs\
-   With the full flexibility and dynamic of the Gafi Market, Studio can freely customize the trading fee or change NFTs attribute only with one "one-click".\
-   Last but not least is the exclusive transparency random minting, players enjoying the free-trust mining function, and also helps Studio easier on making sales.
+   With all the flexibility and dynamism of Gafi Market, Studio is free to customize transaction fees or change NFT properties with just one "click". Last but not least is the exclusive transparent-random-minting and the upgrade NFTs features create a new way for Studio to generate profit.
 
-Which took ZERO cost, and in just minutes, Gafi let Studio can advancing the best-in-class blockchain technologies into their games.
+Which took ZERO cost, and in just minutes, Gafi let Studio leverage the best-in-class blockchain technologies into their games.

@@ -13,7 +13,7 @@ description: The structure of a Web3 gaming blockchain.
 
 2. Web3 Game Model
 
-<figure><img src="../../.gitbook/assets/Gafi_web3_gaming-Gafi Structure.drawio (1) (2).png" alt=""><figcaption><p>Web3 Game Structure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gafi_web3_gaming-Gafi Structure.drawio (1).png" alt=""><figcaption><p>Web3 Game Structure</p></figcaption></figure>
 
 The triangle represents the three parts of Web3 Gaming: Blockchain, Players, and Games.
 
