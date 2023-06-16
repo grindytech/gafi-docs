@@ -19,6 +19,4 @@ Gafi provides a transparent way to publish NFTs under two Mining Pool mechanisms
 
 * The `weight` or number of NFTs in the pool, the fewer NFTs in the pool, the rarer the NFT.
 * Each NFT minted will be taken out of the pool causing the chances of mining to change slightly.
-* NFT mining chance will change after Mining Pool has changed its weight (by pool admin).\
-  \
-  \
+* NFT mining chance will change after Mining Pool has changed its weight (by pool admin).
