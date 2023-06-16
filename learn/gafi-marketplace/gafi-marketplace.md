@@ -4,7 +4,7 @@ description: >-
   when you want to transfer, buy, sell, auction.... your NFT?
 ---
 
-# Gafi Marketplace
+# Retail Trade
 
 Gafi Marketplace is a decentralized, transparent, trust-free place where Studios and Players can:
 

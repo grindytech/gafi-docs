@@ -14,7 +14,7 @@
     * [Auto-sign Wallet](learn/web3-gaming/auto-sign-wallet.md)
     * [Forkless Upgrade](learn/web3-gaming/forkless-upgrade.md)
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
-    * [Gafi Marketplace](learn/gafi-marketplace/gafi-marketplace.md)
+    * [Retail Trade](learn/gafi-marketplace/gafi-marketplace.md)
   * [Blockchain Incentives](learn/blockchain-incentives/README.md)
     * [Gafi Network Structure](learn/blockchain-incentives/gafi-network-structure.md)
     * [Proof Address Mapping](learn/blockchain-incentives/proof-address-mapping.md)
