@@ -9,6 +9,7 @@
     * [Gafi Marketplace](learn/web3-gaming/gafi-marketplace.md)
     * [Zero Cost Integration](learn/web3-gaming/zero-cost-integration.md)
     * [New Development Environment](learn/web3-gaming/the-home-of-developers.md)
+    * [Mining Pool NFTs](learn/web3-gaming/mining-pool-nfts.md)
     * [Transparent Random Mining](learn/web3-gaming/transparent-random-mining.md)
     * [Upgradable NFTs](learn/web3-gaming/upgradable-nfts.md)
     * [Community Audit](learn/web3-gaming/community-audit.md)
