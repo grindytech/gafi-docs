@@ -8,7 +8,7 @@ description: >-
 
 Blockchain integration is considered one of the most expensive processes when it comes to adoption, the costs here can be human resources, additional budget services, and trade-offs for game experience and security. In order for Game Web3 to be widely adopted, Gafi has eliminated all the problems in the traditional way, let's compare to learn more.
 
-**I. Traditional Race of Web3 Gaming Integration**
+**I. Traditional Race of Web3 Gaming**
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.18.52.png" alt=""><figcaption><p>Blockchain Integration on Traditional</p></figcaption></figure>
 
@@ -27,7 +27,7 @@ From the traditional game to emerge to web3 gaming. The studio is likely walking
 
 **II. Gafi Race**
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.45.38.png" alt=""><figcaption><p>Web3 Gaming Integration with Gafi</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-29 at 18.45.38.png" alt=""><figcaption><p>Web3 Gaming with Gafi</p></figcaption></figure>
 
 1. Design NFTs\
    Gafi offers a new version of ERC1155 with various unique methods for Games, making it extremely easy for studios to design NFTs for their games.

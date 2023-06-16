@@ -8,7 +8,7 @@ Welcome to Gafi, where we're revolutionizing the gaming industry by harnessing t
 
 Gafi Wiki is made up of two parts:
 
-1. **Web3 Gaming Integration**
+1. **Web3 Gaming**
 
 * If you are game studio, this section is absolutely a great place for you. Here you will learn how Gafi solves Web3 Gaming integration problems with many exclusive features. From there, you will have ideas on how to maximize the value of Web3 technology for your "beautiful" games.
 * If you are a gamer, go through this section, you can get an idea of ​​what Web3 gaming should be like. Gafi will show you a new level of control over your in-game assets, trust-free NFT mining mechanism and a new marketplace (https://market.gafi.network) with lots of marvelous trading features.
