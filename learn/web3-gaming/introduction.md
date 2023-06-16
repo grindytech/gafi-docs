@@ -6,7 +6,7 @@ Along with that, with the rise of blockchain technology, the decentralized web a
 \
 Just a few years after the first blockchain game was built, the games have led the blockchain adoption in many categories like most active users, biggest ecosystem, biggest fund, and so on. Despite the fact that blockchain gaming is considered the most promising industry in the blockchain space, blockchain games today are facing a multitude of problems from blockchain integration to the blockchain itself.
 
-This section will show you how Gafi solves the first important problem: Web3 Gaming Integration.
+This section will show you how Gafi solves the first important problem: Web3 Gaming.
 
 To discover more of Web3's value for games, please consider looking at Gafi Paper: [https://gafi.network/GafiPaperV2.pdf](https://gafi.network/GafiPaper.pdf)
 

@@ -3,7 +3,7 @@
 * [Gafi Network](README.md)
 * [Learn](learn/README.md)
   * [Introduction](learn/introduction.md)
-  * [Web3 Gaming Integration](learn/web3-gaming/README.md)
+  * [Web3 Gaming](learn/web3-gaming/README.md)
     * [Introduction](learn/web3-gaming/introduction.md)
     * [Web3 Gaming Structure](learn/web3-gaming/gafi-network-structure.md)
     * [Gafi Marketplace](learn/web3-gaming/gafi-marketplace.md)
