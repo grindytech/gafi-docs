@@ -1,20 +1,14 @@
----
-description: >-
-  NFT retail trades refer to the buying and selling of Non-Fungible Tokens
-  (NFTs) within a retail context.
----
-
 # Retail Trades
 
-Different from Wholesale trades,  retail trades are where you can sell a fraction of items but within a collection. The price in retail trades refers to each unit price. Retail trades provide four different convenience trades.
+NFT retail trades involve the buying and selling of Non-Fungible Tokens (NFTs) within a retail context. In contrast to wholesale trades, where items are sold in bulk, retail trades allow for the sale of individual items or a fraction of items within a collection. The price associated with retail trades refers to the unit price of each NFT. Retail trades offer distinct convenience options and are characterized by four primary types:
 
 1. Set Price\
-   Set-price with a `unit price` for a number of NFTs in a collection. To set this trade, you must be reserved (lock) the a certain number of NFTs. This trade may be started in a specific block and period of the block. If run out of NFTs, you can add more.
+   The set-price trade involves offering a fixed unit price for a specified number of NFTs within a collection. Initiating this trade requires reserving a predetermined quantity of NFTs. This trade can be activated during a specific block and within a designated time frame. It's important to note that if the available NFTs are exhausted, additional units can be added to the trade.
 2. Buy Item\
-   Buy a specific number of NFTs from `Set Price` with a `bid price`, to provent misbehavior, Buy item incluced the `bid price that` must be higher or equal to the `unit price.`
+   The buy item trade allows users to purchase a specific number of NFTs from the set-price trade by placing bids. To maintain fair behavior, the buy item trade necessitates including a bid price that is equal to or higher than the unit price. This mechanism helps ensure a secure and equitable transaction.
 3. Set Order\
-   Set a order to buy a number of NFTs in a collection with a bid. To create this trade, a user must be reserved an amount of (`unit price * number of NFTs).`This trade may be started in a specific block and period of the block. If run out of orders, you can add more.
+   With the set order trade, users can place an order to buy a defined number of NFTs from a collection by specifying a bid price. Creating this trade requires reserving an amount equal to the product of the unit price and the desired quantity of NFTs. Similar to other trades, the set order trade is subject to activation during a specific block and time period. If the available orders are exhausted, additional orders can be added.
 4. Sell Item\
-   Sell a number of NFTs to `Set Order` with `ask price`, `ask price` must be lower or equal to the `bid price`.
+   The sell item trade enables users to sell a specified number of NFTs to the set order trade by setting an ask price. This ask price must be equal to or lower than the bid price specified in the set order trade. By maintaining this pricing alignment, the transaction process remains transparent and aligned with market dynamics.
 
-A small deposit must be reserved for any of the trades made, trades can be canceled at any time and all types of assets reserved (locked) will be unreserved (unlocked).
+**Note:** A small deposit is required for each trade. All trades can be canceled at any time, resulting in the release of reserved (locked) assets.
