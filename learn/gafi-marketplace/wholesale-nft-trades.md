@@ -1,10 +1,6 @@
----
-description: Where you can buy or sell the entire NFT in one trade.
----
+# Wholesale NFT Trades
 
-# Wholesale
-
-Similar to Retail trading, but instead of dealing with any number of NFTs, Wholesale is buying or selling an entire amount of NFTs in a single trade.
+Wholesale NFT trades involve the bulk buying and selling of Non-Fungible Tokens (NFTs) within a wholesale context. Unlike retail trades, which focus on individual units, wholesale trades are centered around the transaction of larger quantities of NFTs can be from different collections. The wholesale trading system encompasses four distinct trade types, offering traders and collectors convenient options for engaging in wholesale NFT transactions:
 
 1. Set Bundle\
    Set the price for a bundle with a `price`. To set this trade, you must be reserved (lock) the same bundle. This trade may be started in a specific block and period of the block.

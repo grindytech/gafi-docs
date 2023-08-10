@@ -15,7 +15,7 @@
     * [Forkless Upgrade](learn/web3-gaming/forkless-upgrade.md)
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
     * [Retail Trades](learn/gafi-marketplace/gafi-marketplace.md)
-    * [Wholesale](learn/gafi-marketplace/wholesale.md)
+    * [Wholesale NFT Trades](learn/gafi-marketplace/wholesale-nft-trades.md)
     * [Swap](learn/gafi-marketplace/swap.md)
     * [Auction](learn/gafi-marketplace/auction/README.md)
       * [Forward Auction](learn/gafi-marketplace/auction/forward-auction.md)
