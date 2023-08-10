@@ -17,3 +17,5 @@ To solve these problems, Gafi Marketplace offers:
 * No Network Trading fee
 * Friendly UI/UX for games
 * Outstanding security with [Community Audit](https://wiki.gafi.network/learn/web3-gaming-integration/community-audit).
+
+Let's trade!
