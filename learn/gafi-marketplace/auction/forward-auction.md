@@ -1,11 +1,6 @@
----
-description: >-
-  A forward auction is a dynamic auction method where participants can sell
-  Non-Fungible Tokens (NFTs) to the highest bidder or buy NFTs from the lowest
-  bidder. It's a competitive process that allows us
----
-
 # Forward Auction
+
+A forward auction is a dynamic auction method where participants can sell Non-Fungible Tokens (NFTs) to the highest bidder or buy NFTs from the lowest bidder. It's a competitive process that allows users to engage in trading activities within a specified time frame.
 
 #### Introduction
 
