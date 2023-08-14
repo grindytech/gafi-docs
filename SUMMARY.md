@@ -14,7 +14,7 @@
     * [Auto-sign Wallet](learn/web3-gaming/auto-sign-wallet.md)
     * [Forkless Upgrade](learn/web3-gaming/forkless-upgrade.md)
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
-    * [Retail Trades](learn/gafi-marketplace/gafi-marketplace.md)
+    * [Retail NFT Trades](learn/gafi-marketplace/gafi-marketplace.md)
     * [Wholesale NFT Trades](learn/gafi-marketplace/wholesale-nft-trades.md)
     * [Swap NFT Trading](learn/gafi-marketplace/swap-nft-trading.md)
     * [Auction](learn/gafi-marketplace/auction/README.md)
