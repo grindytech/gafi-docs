@@ -12,7 +12,6 @@
     * [Upgradable NFTs: Gafi's Innovative Feature](learn/web3-gaming/upgradable-nfts.md)
     * [Community Audit: Enhancing Security through Collective Oversight in Gafi Network](learn/web3-gaming/community-audit.md)
     * [Auto-sign Wallet](learn/web3-gaming/auto-sign-wallet.md)
-    * [Forkless Upgrade](learn/web3-gaming/forkless-upgrade.md)
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
     * [Retail NFT Trades](learn/gafi-marketplace/gafi-marketplace.md)
     * [Wholesale NFT Trades](learn/gafi-marketplace/wholesale-nft-trades.md)
