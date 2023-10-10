@@ -1,10 +1,10 @@
 ---
-description: Let's Unlock the Future of Web3 Gaming.
+description: Revolutionizing Blockchain-based Gaming
 ---
 
 # Gafi Network
 
-The Gafi Network: Revolutionizing Blockchain-based Gaming
+<figure><img src=".gitbook/assets/3D_Blue_Stacked _Slogan.png" alt=""><figcaption></figcaption></figure>
 
 Welcome to the Gafi Network Wiki, a comprehensive resource for those interested in learning, building, and operating on the Gafi Network. Our foundation is built on cutting-edge technologies, architectures, and mechanisms, making us the forefront of the next wave of Blockchain-based Gaming.
 
