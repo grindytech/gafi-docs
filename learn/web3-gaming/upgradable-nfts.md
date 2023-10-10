@@ -1,12 +1,17 @@
-# Upgradable NFTs
+# Upgradable NFTs: Gafi's Innovative Feature
 
-Non-fungible tokens (NFTs) are considered to be the heart of the blockchain game and also the fastest growing in the blockchain space. NFTs are used to certify ownership and authenticity. It cannot be copied, substituted, or subdivided. NFTs typically contain references to digital assets such as artworks, photos, videos, and audio. - source [Wikipedia](https://en.wikipedia.org/wiki/Non-fungible\_token).
+Non-Fungible Tokens (NFTs) are the cornerstone of blockchain gaming and represent one of the fastest-growing sectors within the blockchain space. NFTs, as per Wikipedia, are used to certify ownership and authenticity of digital assets such as artworks, photos, videos, and audio. They cannot be copied, substituted, or subdivided.
 
-Looking back at the history of Blockchain Games starting with CryptoKitty, they used the ERC721 Token Standard for in-game finance, but this was the wall that stopped them from scaling. For Blockchain Games, ERC721 is extremely expensive on blockchain resources, thus causing an unexpected increase in transaction fees.\
-To solve this problem, a new token standard ERC1155 was born, taking ideas from all ERC20, ERC721, and ERC777. For Blockchain Games, this is like a lifesaver to help them solve transaction fee problems and provide more flexible functionality to handle a large amount of assets in the game.
+I. The Evolution of Blockchain Gaming and NFT Standards
 
-Unlike most NFTs, in-game assets are changeable or upgradeable. Nearly all games allow in-game items that can be transformed into better items with better attributes that make the gameplay more enjoyable.
+Early blockchain games like CryptoKitty used the ERC721 Token Standard for in-game finance. However, this standard proved to be a barrier to scalability due to its high cost in terms of blockchain resources, leading to a significant increase in transaction fees.
 
-Gafi builds an ERC1155-like Token Standard for efficient use of blockchain resources and allows NFTs to be upgradable on-chain. NFT upgrade rules are set by Studio, and for a certain upgrade fee, gamers can convert their NFTs.
+To address this issue, the ERC1155 Token Standard was introduced, incorporating features from ERC20, ERC721, and ERC777 standards. This new standard significantly reduced transaction fees and provided greater flexibility in managing large quantities of in-game assets.
 
-Please visit How to Set and Upgrade NFT to use this feature.
+II. The Introduction of Upgradable NFTs
+
+Most in-game assets have the potential to be upgraded or transformed into better items with improved attributes, enhancing the gaming experience. However, traditional NFTs do not support on-chain upgrades.
+
+Gafi has innovatively built an ERC1155-like Token Standard that not only utilizes blockchain resources efficiently but also allows NFTs to be upgraded on-chain. Game studios can set the rules for NFT upgrades, and for a specific upgrade fee, gamers can enhance their NFTs.
+
+For more information on how to set and upgrade NFTs using this feature, please visit the 'How to Set and Upgrade NFT' section on our website. Gafi's upgradable NFTs offer an exciting new dimension to blockchain gaming, making gameplay more dynamic and engaging.
