@@ -15,7 +15,7 @@ Gafi Wiki is divided into four distinct sections, each catering to different nee
 3. Operator: Learn how to run a node on your local machine and participate in Gafi Testnet/Mainnet programs. This section equips you with the knowledge needed to actively engage with the Gafi Network.
 4. How-to Guides: Step-by-step demos and detailed instructions on how to effectively utilize Gafi's functions. This section ensures that users have a seamless experience while navigating the Gafi Network.
 
-For a deeper understanding of the Gafi philosophy, we recommend visiting the Gafi Papers section. Here, you will find Version 1: Blockchain Incentives and Version 2: Decentralizing the Game, which provide insights into the underlying principles and concepts driving the Gafi Network.
+For a deeper understanding of the Gafi philosophy, we recommend visiting the Gafi Papers section. Here, you will find Version 1: [Blockchain Incentives](https://gafi.network/GafiPaper.pdf) and Version 2: [Decentralizing the Game](https://gafi.network/GafiPaperV2.pdf), which provide insights into the underlying principles and concepts driving the Gafi Network.
 
 It is important to note that this document is not intended to be the final version. The Gafi blockchain design will evolve over time, incorporating community feedback and criticisms. New features will be added, and functionalities will be shaped to ensure the best possible experience for our users.
 
