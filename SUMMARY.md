@@ -10,7 +10,7 @@
     * [Mining Pool NFTs: Gafi's Transparent Approach](learn/web3-gaming/mining-pool-nfts-gafis-transparent-approach.md)
     * [Transparent Random Mining: Gafi's Trustless Mechanism](learn/web3-gaming/transparent-random-mining.md)
     * [Upgradable NFTs: Gafi's Innovative Feature](learn/web3-gaming/upgradable-nfts.md)
-    * [Community Audit](learn/web3-gaming/community-audit.md)
+    * [Community Audit: Enhancing Security through Collective Oversight in Gafi Network](learn/web3-gaming/community-audit.md)
     * [Auto-sign Wallet](learn/web3-gaming/auto-sign-wallet.md)
     * [Forkless Upgrade](learn/web3-gaming/forkless-upgrade.md)
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
