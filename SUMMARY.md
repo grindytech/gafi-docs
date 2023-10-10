@@ -15,7 +15,7 @@
   * [Gafi Marketplace](learn/gafi-marketplace/README.md)
     * [Retail NFT Trades](learn/gafi-marketplace/gafi-marketplace.md)
     * [Wholesale NFT Trades](learn/gafi-marketplace/wholesale-nft-trades.md)
-    * [Swap NFT Trading](learn/gafi-marketplace/swap-nft-trading.md)
+    * [Swap NFT Trade](learn/gafi-marketplace/swap-nft-trade.md)
     * [Auction](learn/gafi-marketplace/auction/README.md)
       * [Forward Auction](learn/gafi-marketplace/auction/forward-auction.md)
       * [Candle Auction](learn/gafi-marketplace/auction/candle-auction.md)
