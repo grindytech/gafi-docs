@@ -6,7 +6,7 @@
   * [Web3 Gaming](learn/web3-gaming/README.md)
     * [Web3 Gaming Structure](learn/web3-gaming/gafi-network-structure.md)
     * [Zero Cost Integration: A Game-Changing Feature of Gafi](learn/web3-gaming/zero-cost-integration.md)
-    * [New Development Environment](learn/web3-gaming/the-home-of-developers.md)
+    * [A New Development Environment: Gafi's Innovative Solution](learn/web3-gaming/the-home-of-developers.md)
     * [Mining Pool NFTs](learn/web3-gaming/mining-pool-nfts.md)
     * [Transparent Random Mining](learn/web3-gaming/transparent-random-mining.md)
     * [Upgradable NFTs](learn/web3-gaming/upgradable-nfts.md)
