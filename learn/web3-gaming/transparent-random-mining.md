@@ -1,4 +1,8 @@
-# Transparent Random Mining: Gafi's Trustless Mechanism
+---
+description: Gafi's Trustless Mechanism
+---
+
+# Transparent Random Mining
 
 Traditional blockchain games often lack a reliable random mechanism, despite its critical role in gaming. These games usually generate Non-Fungible Tokens (NFTs) on the game server, which are then issued on the blockchain via an admin wallet. This process leads to several issues:
 

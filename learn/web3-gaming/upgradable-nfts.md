@@ -1,4 +1,8 @@
-# Upgradable NFTs: Gafi's Innovative Feature
+---
+description: Gafi's Innovative Feature
+---
+
+# Upgradable NFTs
 
 Non-Fungible Tokens (NFTs) are the cornerstone of blockchain gaming and represent one of the fastest-growing sectors within the blockchain space. NFTs, as per Wikipedia, are used to certify ownership and authenticity of digital assets such as artworks, photos, videos, and audio. They cannot be copied, substituted, or subdivided.
 

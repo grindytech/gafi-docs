@@ -1,4 +1,8 @@
-# Mining Pool NFTs: Gafi's Transparent Approach
+---
+description: Gafi's Transparent Approach
+---
+
+# Mining Pool NFTs
 
 Traditionally, blockchain games generate in-game items on the game server, which are then minted as Non-Fungible Tokens (NFTs) through the blockchain. This process often leaves several uncertainties, such as the rarity of the NFT, the total number of NFTs, and the chances of mining them. Consequently, gamers can end up investing heavily in mining high-value items that may never be minted. Gafi addresses this issue with a clear and transparent approach to publishing NFTs, utilizing two distinct Mining Pool mechanisms inspired by the Video Game - Loot Table concept.
 

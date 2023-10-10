@@ -1,4 +1,8 @@
-# A New Development Environment: Gafi's Innovative Solution
+---
+description: Gafi's Innovative Solution
+---
+
+# A New Development Environment
 
 The transition to web3 gaming often presents traditional game developers with a set of unique challenges. These typically include mastering smart contract development, maintaining blockchain nodes, and ensuring robust security. Gafi offers an innovative solution to these issues, providing a more accessible and secure development environment.
 

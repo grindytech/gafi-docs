@@ -1,4 +1,8 @@
-# Zero Cost Integration: A Game-Changing Feature of Gafi
+---
+description: A Game-Changing Feature of Gafi
+---
+
+# Zero Cost Integration
 
 The integration of blockchain technology is often perceived as an expensive and complex process, requiring significant human resources, budgetary provisions, and trade-offs between game experience and security. However, Gafi, a revolutionary platform in the realm of Web3 gaming, has successfully eliminated these traditional hurdles. This article compares the traditional approach to Web3 gaming integration with Gafi's innovative approach to better illustrate the benefits of the latter.
 

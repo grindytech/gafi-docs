@@ -1,4 +1,8 @@
-# Community Audit: Enhancing Security through Collective Oversight in Gafi Network
+---
+description: Enhancing Security through Collective Oversight in Gafi Network
+---
+
+# Community Audit
 
 In the realm of blockchain technology, security is of paramount importance. Gafi Network takes a unique approach to enhance this aspect by leveraging the power of its community. Gafi Network is open-source, meaning every update to its system is open to scrutiny by the community, a process known as a Community Audit.
 
