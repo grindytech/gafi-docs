@@ -1,28 +1,33 @@
+---
+description: Gafi's Trustless Mechanism
+---
+
 # Transparent Random Mining
 
-**The Critical Problems of Mining NFTs on Traditional Blockchain Games**
+Traditional blockchain games often lack a reliable random mechanism, despite its critical role in gaming. These games usually generate Non-Fungible Tokens (NFTs) on the game server, which are then issued on the blockchain via an admin wallet. This process leads to several issues:
 
-In the traditional way of blockchain gaming, the random mechanism is the missing part despite the fact that randomness is an important component of the game. Typically, a blockchain game will generate NFTs in the game server and then issue them on the blockchain via the admin wallet. In this way, some critical problems occur.
+1. Unreliability: Players cannot verify if the NFTs were created as intended or determine their rarity.
+2. Imbalanced Gameplay: Instances have occurred where admin wallets have created premium NFTs for personal gain or swift advancement, disrupting game balance.
+3. Exploitation Risk: Since NFTs are issued by an admin wallet stored on the game server, there's a risk of hacking that can lead to changes in the game's smart contract.
 
-1. Unreliable: The NFT is generated in-game so players don't know if the NFT is really created the way it should be, and how rare it is.
-2. The game is not balanced: this has happened a number of times in the blockchain space where admin wallets have created premium NFTs for themselves for a quick profit or a quick rise to the top.
-3. The danger of being exploited: since the NFT is issued by the admin wallet which is stored somewhere on the game server, this workaround sometimes turns into a big regret when it gets hacked and causes changes smart contract of the whole game.
+To address these issues, Gafi has introduced the Transparent Random Mining Mechanism (TRMM).
 
-**Gafi Transparent Random Mining Mechanism (TRMM)**
+I. Gafi’s Transparent Random Mining Mechanism (TRMM)
 
-TRMM is a trustless mining mechanism in Gafi, let's find out how it works.\
-First, conventional computer randomness is pseudo-random, which is the process of generating a random value from an input that can be time, weather, location, etc., anything that is difficult to predict.\
-But blockchains require deterministic results — where the same input always produces the same output, so there is no way that a truly random value can be generated in the blockchain itself.
+TRMM is a trustless mining mechanism that provides a solution to the inherent limitations of blockchain randomization. Traditional computers generate pseudo-randomness — random values derived from unpredictable inputs like time, weather, or location. However, blockchains require deterministic results, where the same input always produces the same output, making true random value generation impossible within the blockchain itself.
 
-Built with [Substrate](https://substrate.io/), the best-in-class blockchain framework that Gafi generates seeds from the off-chain in each block and then sends to the blockchain as input to TRMM, In this way Gafi builds a new trust randomness mechanism for the Game.
+Gafi, built on the state-of-the-art Substrate blockchain framework, generates seeds off-chain for each block and sends them to the blockchain as inputs for the TRMM. This innovative approach establishes a new, trustworthy random mechanism for gaming.
 
-With the combination of Pre-mint and TRMM, gamers can mint NFT in a transparent and reliable way, let's take an example:
+II. The Combination of Pre-mint and TRMM
+
+By combining Pre-mint and TRMM, gamers can mint NFTs in a transparent and reliable manner. For instance:
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-06-05 at 18.28.28.png" alt=""><figcaption></figcaption></figure>
 
-Let's say a racing game wants to generate a collection of 6,300 cars including 5,000 Ferraris, 800 McLarens, and 500 Lamborghinis. The chance of random minting would be:\
-Ferrari: 5,000 / 6,300 \* 100 = 79.37%\
-McLaren: 800 / 6,300 \* 100 = 12.70%\
-And Lamborghini: 500 / 6,300 \* 100 = 7.94%.
+Consider a racing game that wants to generate a collection of 6,300 cars, including 5,000 Ferraris, 800 McLarens, and 500 Lamborghinis. The chances of randomly minting these cars would be:
 
-With TRMM, NFT mining in blockchain games becomes more transparent. Now that we can see the chance of mining each item in the collection, we can see the random value in each block.
+* Ferrari: 5,000 / 6,300 \* 100 = 79.37%
+* McLaren: 800 / 6,300 \* 100 = 12.70%
+* Lamborghini: 500 / 6,300 \* 100 = 7.94%
+
+With TRMM, the process of NFT mining in blockchain games becomes transparent. Players can view the chances of mining each item in a collection and observe the random value in each block, ensuring a fair and balanced gaming experience.

@@ -1,25 +1,23 @@
 ---
-description: >-
-  Gafi is the unique blockchain environment for both blockchain and
-  non-blockchain developers.
+description: Gafi's Innovative Solution
 ---
 
-# New Development Environment
+# A New Development Environment
 
-1. The problems of the development environment
+The transition to web3 gaming often presents traditional game developers with a set of unique challenges. These typically include mastering smart contract development, maintaining blockchain nodes, and ensuring robust security. Gafi offers an innovative solution to these issues, providing a more accessible and secure development environment.
 
-When adopting web3 gaming, traditional games are likely to deal with three things:
+I. The Challenges of Traditional Web3 Gaming Development
 
-* Developing smart-contract\
-  Solidity is the most famous smart contract programming language for the Ethereum Environment, which is also the largest community in the blockchain space. However, Solidity is a new and nascent technology that takes an average of 6 months to learn. To build a blockchain game with Solidity, it took over 6 months to build, test, audit, and then deploy. If something went wrong, developers would deploy all over again and then replace new smart-contract addresses in all places.
-* Building the blockchain node\
-  To interact with the blockchain, the blockchain game needs stable PRC APIs. This can be a huge cost to run blockchain nodes and maintain them.
-* Dealing with security\
-  Since smart contracts are young and everyone can deploy their own smart contracts on the blockchain in any way they want. Thus, we have seen many hacks and thefts happening in the blockchain space. Usually, users will sign any transaction that comes in front of them with little or no research, and then hackers can take control of their accounts. Quite often, even reputable smart contracts have been exploited due to poor code quality.
+1. Developing Smart Contracts: Solidity, the primary programming language for Ethereum-based smart contracts, is relatively new and requires around six months to learn proficiently. Building a blockchain game using Solidity involves an extensive process of development, testing, auditing, and deployment, which can take over six months. If issues arise, developers must repeat the entire process.
+2. Maintaining Blockchain Nodes: Interacting with the blockchain necessitates stable PRC APIs, requiring the operation and maintenance of blockchain nodes, which can be costly.
+3. Ensuring Security: Given the novelty of smart contracts and the freedom for anyone to deploy them on the blockchain, security breaches, hacks, and thefts are common. Users often sign transactions without thorough research, leaving their accounts vulnerable. Even reputable smart contracts have been exploited due to subpar code quality.
 
-2. What is the solution?
+II. Gafi's Innovative Solution
 
-* Gafi builds an exclusive environment where developers can use APIs to fully manage in-game finances. And yes, every developer from blockchain to non-blockchain to non-developers is familiar with calling APIs. From creating collections and items to setting upgrade rules can be done easily via the API in just a matter of minutes.
-* Gafi is built from a state-of-art blockchain framework: Substrate and the most loved programing language: Rust which is familiar to developers. Unlike most traditional blockchains, Gafi uses a new blockchain upgrade mechanism: [Forkless](https://docs.substrate.io/maintain/runtime-upgrades/) upgrade, any changes in the Gafi blockchain must go through governance (Community Audit), this mechanism brings extremely high security to the Gafi ecosystem.
+Gafi has created a dedicated environment where developers can use APIs to manage in-game finances fully. This approach is familiar to developers across the spectrum, from blockchain specialists to non-blockchain developers and even non-developers. Tasks such as creating collections and items or setting upgrade rules can be accomplished via the API in just minutes.
 
-In addition, developers can also use runtime features and earn significant rewards, for more information please visit [Blockchain Incentives](https://wiki.gafi.network/learn/blockchain-incentives) to learn more.
+Built on the cutting-edge Substrate blockchain framework and programmed in Rust, a widely-used and popular language, Gafi offers a user-friendly development environment. Unlike traditional blockchains, Gafi employs a forkless upgrade mechanism for its blockchain. Any changes to the Gafi blockchain must undergo a community audit, ensuring a high level of security within the Gafi ecosystem.
+
+Developers can also leverage runtime features and earn considerable rewards. For more information on these incentives, please visit the 'Blockchain Incentives' section on our website.
+
+\

@@ -1,18 +1,22 @@
-# Swap NFT Trading
+# Swap NFT Trade
 
-Swap NFT trading refers to the exchange of Non-Fungible Tokens (NFTs) between two parties within the Gafi marketplace.
+The Swap NFT (Non-Fungible Tokens) trading feature is a unique function within the Gafi marketplace that allows two parties to exchange NFTs.
 
-#### Create Swap
+Creating a Swap:
 
-Initiating a swap NFT trade in the Gafi marketplace involves the following steps:
+The process of initiating a swap NFT trade involves several steps:
 
-1. **Reserve NFTs:** The party initiating the swap must reserve the NFTs they intend to exchange. This step ensures that the NFTs are locked for the duration of the swap process.
-2. **Asking Price:** The party creating the swap may set an asking price, indicating the value at which they are willing to exchange their NFT.
-3. **Start and Duration:** Swap trading can commence within a specific block and remain open for the duration of the specified blocks within the Gafi platform.
+1. Reserve NFTs: The first step in initiating a swap involves reserving the NFTs that one party wishes to exchange. This reservation process ensures that the NFTs are secured and cannot be traded elsewhere during the swap process.
+2. Set Asking Price: The party who initiates the swap can set an asking price. This price represents the value at which they are willing to part with their NFT.
+3. Define Start and Duration: The swap trading process can be scheduled to start within a specific block of time and remain active for a predetermined number of blocks within the Gafi platform.
 
-#### Make Swap
+Executing a Swap:
 
-Executing a swap NFT trade within the Gafi marketplace follows these steps:
+Completing a swap NFT trade within the Gafi marketplace involves the following steps:
 
-1. **Required NFT and Bid:** To complete a swap, a participant must possess the NFT they intend to exchange and provide a bid. The bid represents the digital asset or value they are offering in exchange for the desired NFT.
-2. **Bid Amount:** The bid amount must be equal to or higher than the asking price set by the party who created the swap. This ensures that the exchange maintains a fair value proposition for both participants.
+1. Provide Required NFT and Bid: To successfully complete a swap, a participant must own the NFT they wish to trade and offer a bid. The bid is the digital asset or value that they propose in exchange for the NFT they desire.
+2. Meet or Exceed Bid Amount: The bid must be equal to or exceed the asking price set by the party who initiated the swap. This requirement ensures that the swap maintains a fair value proposition for both parties involved in the trade.
+
+In summary, the Swap NFT trading feature in the Gafi marketplace provides a secure and fair platform for users to exchange their NFTs. It ensures that both parties receive value commensurate with their offerings, fostering a balanced and equitable trading environment.
+
+\

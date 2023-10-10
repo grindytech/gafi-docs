@@ -1,22 +1,24 @@
 ---
-description: The mining pool mechanism is a new way for Studios to publish NFTs.
+description: Gafi's Transparent Approach
 ---
 
 # Mining Pool NFTs
 
-In the traditional way of publishing NFTs in blockchain games, games are likely to generate in-game items in the game server, which are then minted through the blockchain as NFTs. In this way, the rarity of the NFT is unknown, the number of NFTs is unknown, and the chances of NFT mining are also unknown. More often than not, gamers will lose a lot of money mining a superior item that will never be minted.
+Traditionally, blockchain games generate in-game items on the game server, which are then minted as Non-Fungible Tokens (NFTs) through the blockchain. This process often leaves several uncertainties, such as the rarity of the NFT, the total number of NFTs, and the chances of mining them. Consequently, gamers can end up investing heavily in mining high-value items that may never be minted. Gafi addresses this issue with a clear and transparent approach to publishing NFTs, utilizing two distinct Mining Pool mechanisms inspired by the Video Game - Loot Table concept.
 
-Gafi provides a transparent way to publish NFTs under two Mining Pool mechanisms, inspired by the concept of the Video Game - [Loot Table](https://en.wikipedia.org/wiki/Loot\_\(video\_games\)):
+I. Stable Mining Pool
 
-1. Stable Mining Pool\
-   A stable mining pool is a pool of NFTs (maybe from different collections) and those NFTs must have an infinite supply. Mining opportunity depends on:
+A Stable Mining Pool comprises an infinite supply of NFTs, possibly from different collections. The mining opportunity in this pool depends on:
 
-* The `weight` or number of NFTs in the pool, the fewer NFTs in the pool, the rarer the NFT.
-* NFT Mining Chances will not change after each mining but change after the Mining Pool has changed the weights (by pool admin).
+1. The weight or quantity of NFTs in the pool. The fewer NFTs in the pool, the rarer the NFT becomes.
+2. The mining chances for NFTs remain constant after each mining operation but may change if the pool admin alters the weights within the Mining Pool.
 
-2. Dynamic Mining Pool\
-   A dynamic mining pool is a group of NFTs(maybe from different collections) and those NFTs must have a supply. Mining opportunity depends on:
+II. Dynamic Mining Pool
 
-* The `weight` or number of NFTs in the pool, the fewer NFTs in the pool, the rarer the NFT.
-* Each NFT minted will be taken out of the pool causing the chances of mining to change slightly.
-* NFT mining chance will change after Mining Pool has changed its weight (by pool admin).
+A Dynamic Mining Pool consists of NFTs, possibly from different collections, with a limited supply. The mining opportunity here depends on:
+
+1. The weight or quantity of NFTs in the pool. Similar to the Stable Mining Pool, the fewer NFTs in the pool, the rarer the NFT becomes.
+2. Each NFT minted is removed from the pool, resulting in a slight change in the mining chances.
+3. The mining chance for NFTs can change if the pool admin changes the weights within the Mining Pool.
+
+Gafi's innovative approach to NFT mining pools provides gamers with a transparent and fair system, ensuring they have clear expectations when investing in mining operations.
