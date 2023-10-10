@@ -1,3 +1,7 @@
+---
+description: A Comprehensive Guide
+---
+
 # Wholesale NFT Trades
 
 Wholesale NFT trades involve the bulk buying and selling of Non-Fungible Tokens (NFTs) within a wholesale context. Unlike retail trades, which focus on individual units, wholesale trades are centered around the transaction of larger quantities of NFTs, which can be from different collections. The wholesale trading system encompasses four distinct trade types, offering traders and collectors convenient options for engaging in wholesale NFT transactions:
